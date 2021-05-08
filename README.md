@@ -1,4 +1,4 @@
-# MLP_in_CPP
+# Multilayer Perceptron using C++
 
 Assignment 2 for the course, Foundations of Data Science, taught by Dr. Navneet Goyal in Second Semester 2020-21 at BITS Pilani.
 
