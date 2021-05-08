@@ -1,5 +1,7 @@
 # MLP_in_CPP
 
+Assignment 2 for the course, Foundations of Data Science, taught by Dr. Navneet Goyal in Second Semester 2020-21 at BITS Pilani.
+
 Team Members
 
 -Pranay Khariwal    			2017B3A70565P
